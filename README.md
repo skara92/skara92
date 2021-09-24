@@ -8,4 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to wear my socks when I sleep.
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />[webdevplaylist]
+
+<h1>Languages & Tools</h1>
+<br/>
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
