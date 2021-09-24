@@ -7,3 +7,5 @@
 - 📫 How to reach me: Gmail - stefankaragiozov92@gmail.com || Twitter - https://twitter.com/StefanKaragioz2
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to wear my socks when I sleep.
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />[webdevplaylist]
